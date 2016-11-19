@@ -1,0 +1,6 @@
+{
+  "name": "Deeplearningassignment",
+  "tagline": "",
+  "body": "# DeepLearning code from Google Deep neural network lecture.\r\n##Cover constant node, placehoder node, L2 regularization, One layer dropout, multi-layer node, muti-layer node, convolution neural network.\r\n\r\nAssignment of Google machine learning lecture using tensorflow \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
