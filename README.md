@@ -1,10 +1,8 @@
 # DeepLearningAssignment
 Deep Neural Network
 Convolution Neural Network
-
-
-* The rest file can be disregarded !
-
+Deep Neural Network to train a Word2Vec skip-gram model over Text8 data.
+Deep Neural Network to train a LSTM character model over Text8 data.
 ### installation and usage
 This project require following module.
 TensorFlow
